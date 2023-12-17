@@ -9,7 +9,7 @@ provider "aws" {
 resource "aws_instance" "example_instance" {
   ami           = "ami-0c55b159cbfafe1f0" # Update with your desired AMI ID
   instance_type = "t2.micro"
-  key_name      = "your-key-pair-name"    # Update with your key pair name
+  key_name      = "KeyPair_EC2_PA1_01.pem"    # Update with your key pair name
 
   tags = {
     Name = "example-instance"
