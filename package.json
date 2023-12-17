@@ -1,5 +1,5 @@
 {
-    "name": "Terraform AWS GitHubActions DevOps",
+    "name": "terraform-aws-githubactions-devops",
     "version": "1.0.0",
     "description": "A brief description of your project",
     "main": "index.js",
