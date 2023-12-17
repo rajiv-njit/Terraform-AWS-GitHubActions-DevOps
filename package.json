@@ -4,7 +4,7 @@
     "description": "A brief description of your project",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"No test specified\""
     },
     "repository": {
       "type": "git",
@@ -16,6 +16,6 @@
     "bugs": {
       "url": "https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps/issues"
     },
-    "homepage": "https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps/blob/main/README.md"
+    "homepage": "https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps#readme"
   }
   
