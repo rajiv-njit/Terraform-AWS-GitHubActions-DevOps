@@ -1,0 +1,21 @@
+{
+    "name": "Terraform AWS GitHubActions DevOps",
+    "version": "1.0.0",
+    "description": "A brief description of your project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps.git"
+    },
+    "keywords": [],
+    "author": "Rajiv Kumar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps/issues"
+    },
+    "homepage": "https://github.com/rajiv-njit/Terraform-AWS-GitHubActions-DevOps/blob/main/README.md"
+  }
+  
